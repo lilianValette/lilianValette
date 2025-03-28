@@ -15,6 +15,9 @@
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=sql&logoColor=white)
 
 
+### Statistiques GitHub
+![Contributions](https://github-readme-stats.vercel.app/api?username=votre-nom-d-utilisateur&show_icons=true&theme=radical)
+![Langues](https://github-readme-stats.vercel.app/api/top-langs/?username=votre-nom-d-utilisateur&layout=compact&theme=radical)
 
 
 
